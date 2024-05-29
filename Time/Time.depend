@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1662777734 source:e:\onnnlt\time\main.cpp
+	<iostream>
+	"Time.h"
+
+1662777401 source:e:\onnnlt\time\milltime.cpp
+	"MillTime.h"
+	<iostream>
+
+1662777401 e:\onnnlt\time\milltime.h
+
+1662777803 source:e:\onnnlt\time\time.cpp
+	"Time.h"
+	<iostream>
+
+1662553983 e:\onnnlt\time\time.h
+	<iostream>
+	"MillTime.h"
+

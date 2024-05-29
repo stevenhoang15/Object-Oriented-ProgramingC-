@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1662886179 source:e:\onnnlt\employee\employee.cpp
+	"Employee.h"
+
+1662885790 e:\onnnlt\employee\employee.h
+	<iostream>
+
+1584205420 source:e:\onnnlt\employee\main.cpp
+	<iostream>
+
